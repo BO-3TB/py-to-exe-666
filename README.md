@@ -22,7 +22,7 @@
 # 📷 Preview
 
 <p align="center">
-<img src="images/preview.png" width="900">
+<img src="images/py to exe tool .png" width="900">
 </p>
 
 > Put your screenshot inside the **images** folder and name it **preview.png**.
