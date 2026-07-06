@@ -67,7 +67,7 @@ After downloading:
 - 🖼️ py_to_exe_tool.png
 - 🚀 Py To EXE.exe
 - 📄 README.md
-- 📄 LICENSE
+
 
 ---
 
@@ -88,3 +88,4 @@ If you enjoy this project, please leave a ⭐ on GitHub.
 <p align="center">
 Made with ❤️ by <b>ABO 3TB⁶⁶⁶</b>
 </p>
+اشكر عضيدي شات جبتي سلك الامور يارب كل شي كويس
