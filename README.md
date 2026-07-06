@@ -1,86 +1,92 @@
-<h1 align="center">🚀 Py To EXE</h1>
+<h1 align="center">🐍 Py To EXE</h1>
 
 <p align="center">
-  <b>Convert Python Scripts into Standalone Windows Executables</b><br>
-  Fast • Lightweight • Easy to Use
+  Convert your Python scripts into standalone Windows executables with ease.
+</p>
+
+<p align="center">
+  <a href="https://github.com/BO-3TB">
+    <img src="https://img.shields.io/badge/GitHub-BO--3TB-181717?style=for-the-badge&logo=github">
+  </a>
+  <a href="https://discord.com">
+    <img src="https://img.shields.io/badge/Discord-pn.4-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+  </a>
+  <a href="https://guns.lol/666.x666">
+    <img src="https://img.shields.io/badge/Guns.lol-666.x666-black?style=for-the-badge">
+  </a>
 </p>
 
 ---
 
 # 👨‍💻 Developer
 
-<p align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-BO--3TB-181717?style=for-the-badge&logo=github)](https://github.com/BO-3TB)
-[![Discord](https://img.shields.io/badge/Discord-pn.4-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
-[![Guns.lol](https://img.shields.io/badge/Guns.lol-666.x666-black?style=for-the-badge)](https://guns.lol/666.x666)
-
-</p>
+- **ABO 3TB**
+- **GitHub:** https://github.com/BO-3TB
+- **Discord:** `pn.4`
+- **Guns.lol:** https://guns.lol/666.x666
 
 ---
 
-# 📷 Preview
+# 🖼️ Preview
 
 <p align="center">
-<img src="images/py to exe tool .png" width="900">
+  <img src="images/py_to_exe_tool.png" alt="Py To EXE Preview" width="900">
 </p>
-
-> Put your screenshot inside the **images** folder and name it **preview.png**.
 
 ---
 
 # ✨ Features
 
 - 🐍 Built with Python
-- ⚡ Fast EXE Builder
-- 📦 One Click Build
-- 🖥️ Console / Windowed Mode
-- 🖼️ Custom EXE Icon Support
-- 📁 Lightweight
-- 🚀 User Friendly Interface
+- ⚡ Fast & Lightweight
+- 📦 Convert Python (.py) files to Windows (.exe)
+- 🖼️ Custom EXE Icon Support (.ico)
+- 🖥️ Console & Windowed Mode
+- 📁 User Friendly Interface
+- 🚀 One Click Build
 
 ---
 
 # 📥 Download
 
-Download the latest release from this repository and run:
+Download the latest release from this repository.
 
-```text
-pip install -r requirements.txt
-Open BY 666.exe
-```
+After downloading:
 
-> No Python installation is required.
+1. Open **Py To EXE.exe**
+2. Select your Python file.
+3. Configure your build settings.
+4. Click **Build**.
+5. Your executable will be generated automatically.
 
----
-
-# 📂 Repository
-
-```text
-Py-To-EXE/
-│
-├── images/
-│   └── preview.png
-│
-├── Py To EXE.exe
-├── README.md
-└── LICENSE
-```
+> **Python is not required to run the executable.**
 
 ---
 
-# ⚡ About
+# 📂 Files
 
-Py To EXE is a lightweight Windows application written in **Python** that allows you to package Python scripts into standalone executable (.exe) files quickly and easily.
+- 📁 images/
+- 🖼️ py_to_exe_tool.png
+- 🚀 Py To EXE.exe
+- 📄 README.md
+- 📄 LICENSE
+
+---
+
+# 💻 Built With
+
+- Python
+- PyInstaller
+- Custom GUI
 
 ---
 
 # ⭐ Support
 
-If you like this project, leave a ⭐ on GitHub.
+If you enjoy this project, please leave a ⭐ on GitHub.
 
 ---
 
 <p align="center">
-Made with ❤️ by <b>ABO 3TB</b>
+Made with ❤️ by <b>ABO 3TB⁶⁶⁶</b>
 </p>
