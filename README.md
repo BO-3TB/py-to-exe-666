@@ -46,7 +46,8 @@
 Download the latest release from this repository and run:
 
 ```text
-Py To EXE.exe
+pip install -r requirements.txt
+Open BY 666.exe
 ```
 
 > No Python installation is required.
@@ -59,7 +60,7 @@ Py To EXE.exe
 Py-To-EXE/
 │
 ├── images/
-│   └── py to exe tool .png
+│   └── preview.png
 │
 ├── Py To EXE.exe
 ├── README.md
