@@ -27,11 +27,9 @@
 
 ---
 
-# 🖼️ Preview
+## 🖼️ Preview
 
-<p align="center">
-  <img src="images/py_to_exe_tool.png" alt="Py To EXE Preview" width="900">
-</p>
+![Py To EXE](./py_to_exe_tool.png)
 
 ---
 
